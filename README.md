@@ -39,7 +39,7 @@ go-day02-student-exam-management/
 
 ---
 
-## 🛠 Technologies
+##  Technologies
 
 - Go 1.26.4
 - Visual Studio Code
@@ -151,4 +151,4 @@ During this project, I practiced:
 
 Backend Engineering Student
 
-Learning Golang one project at a time 🚀
+Learning Golang one project at a time 
